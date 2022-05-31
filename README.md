@@ -1,1 +1,1 @@
-# code-for-my-rpi-pico
+# Code for the Raspberry PI Pico
